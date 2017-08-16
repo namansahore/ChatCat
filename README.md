@@ -40,7 +40,7 @@ All the logs of connections drop or made are shown on server's terminal.
 And here's some code! :clipboard:
 
 
-This is [on GitHub](https://github.com/namansahore/ChatCat) so let me know if I've b0rked it somewhere.
+This is [on GitHub](https://raw.githubusercontent.com/namansahore/ChatCat/master/ChatCat.py) so let me know if I have broken it somewhere.
 
 
 
