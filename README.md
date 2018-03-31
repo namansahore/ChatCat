@@ -6,7 +6,7 @@
 
 Chatcat is an anonymous messaging python script that establish server and opens a PORT (Default 5555) for communication between clients. Communication established by the server between clients is one to one, it means that sender can send message to only one receiver in a connection. This script can be modified in different ways to evoke server as well as client's functions. 
 
-Author		:	[Naman Sahore](https://github.com/namansahore) @namansahore
+Author		:	[Naman Sahore](https://github.com/namansahore) 
 
 
 ## Working
